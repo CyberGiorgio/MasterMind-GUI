@@ -1,0 +1,40 @@
+C:\Users\white\Downloads\New folder\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\white\Downloads\New folder\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\white\Downloads\New folder\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\white\Downloads\New folder\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MasterMind.csprojAssemblyReference.cache
+C:\Users\white\Downloads\New folder\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MasterMind.csproj.GenerateResource.cache
+C:\Users\white\Downloads\New folder\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\white\Downloads\New folder\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\white\Downloads\New folder\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\white\Downloads\New folder\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\masterMind.Properties.Resources.resources
+C:\Users\white\Downloads\New folder\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\masterMindGUI.Form1.resources
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MasterMind.csprojAssemblyReference.cache
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\masterMindGUI.Form1.resources
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\masterMind.Properties.Resources.resources
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MasterMind.csproj.GenerateResource.cache
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MasterMind.csprojAssemblyReference.cache
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\masterMindGUI.Form1.resources
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\masterMind.Properties.Resources.resources
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MasterMind.csproj.GenerateResource.cache
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\white\Pictures\Assignement2 OOP\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\white\Pictures\Assignment2 OOP\Assignment Giorgio Basile OOP2\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\white\Pictures\Assignment2 OOP\Assignment Giorgio Basile OOP2\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\white\Pictures\Assignment2 OOP\Assignment Giorgio Basile OOP2\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\white\Pictures\Assignment2 OOP\Assignment Giorgio Basile OOP2\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MasterMind.csprojAssemblyReference.cache
+C:\Users\white\Pictures\Assignment2 OOP\Assignment Giorgio Basile OOP2\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\masterMindGUI.Form1.resources
+C:\Users\white\Pictures\Assignment2 OOP\Assignment Giorgio Basile OOP2\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\masterMind.Properties.Resources.resources
+C:\Users\white\Pictures\Assignment2 OOP\Assignment Giorgio Basile OOP2\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MasterMind.csproj.GenerateResource.cache
+C:\Users\white\Pictures\Assignment2 OOP\Assignment Giorgio Basile OOP2\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\white\Pictures\Assignment2 OOP\Assignment Giorgio Basile OOP2\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\white\Pictures\Assignment2 OOP\Assignment Giorgio Basile OOP2\MasterMind GUI\MasterMind GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
